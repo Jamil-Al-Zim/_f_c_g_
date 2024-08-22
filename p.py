@@ -132,3 +132,6 @@
 
 # x=abs(-32.35)
 # print(x)
+
+
+print("jamil al zim")
