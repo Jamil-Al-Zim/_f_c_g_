@@ -134,5 +134,6 @@
 # print(x)
 
 
-print("jamil al zim")
-print("jayed al fahim")
+# print("jamil al zim")
+# print("jayed al fahim")
+# print("abu zar")
